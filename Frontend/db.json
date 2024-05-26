@@ -1,0 +1,15 @@
+{
+    "todos": [
+      {
+        "id":1,
+        "title": "Learn React",
+        "description": "Start by reading the official React documentation and follow some tutorials."
+      },
+      {
+        "id":2,
+        "title": "Build Todo App",
+        "description": "Create a simple todo application using React, where users can add, delete, and mark todos as completed."
+      }
+    ]
+  }
+  

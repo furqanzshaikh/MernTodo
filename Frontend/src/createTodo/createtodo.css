@@ -1,0 +1,43 @@
+.todo-card {
+    background-color: #fff;
+    border-radius: 8px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    padding: 20px;
+    width: 400px;
+    margin: 5vw auto;
+}
+
+.input-field {
+    margin-bottom: 1rem;
+}
+
+.label {
+    margin-right: 1rem;
+    margin-bottom: 3px;
+}
+
+.input {
+    width: 100%;
+    padding: 0.5rem;
+    border-radius: 4px;
+    border: 1px solid #ccc;
+    margin-bottom: 5px 0 10px 0;
+}
+
+.button {
+    padding: 0.5rem 1rem;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+}
+
+.add-button {
+    background-color: green;
+    color: #fff;
+    margin-right: 0.5rem;
+}
+
+.cancel-button {
+    background-color: red;
+    color: #fff;
+}
